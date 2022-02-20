@@ -21,9 +21,9 @@
 title: Balint Gyevnar
 email: balint.gyevnar@ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal webpage of Balint Gyevnar. Currently working towards his PhD 
+  Webpage of Balint Gyevnar. Currently working towards my PhD 
   at the University of Edinburgh working on merging explainable AI, autonomous vehicles,
-  and conversational systems, supervised by Stefano Albrecht, Shay Cohen, and Chris Lucas.
+  and conversational systems. My supervisors are Stefano Albrecht, Shay Cohen, and Chris Lucas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gbalint.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CubeCC
