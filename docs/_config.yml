@@ -30,7 +30,7 @@ twitter_username: CubeCC
 github_username:  gyevnarb
 
 # Build settings
-remote-theme: "no-style-please"
+remote_theme: "no-style-please"
 plugins:
   - jekyll-feed
 
