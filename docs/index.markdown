@@ -1,9 +1,10 @@
 ---
 layout: home
 ---
+<hr />
 <div style="overflow: hidden;">
     <img src="assets/portrait.jpg" alt="Portrait of Balint" width="33%" class="header_img" />
-    Research Postgraduate Student<br />
+    <strong>Research Postgraduate Student</strong><br />
     <a href="https://edinburghnlp.inf.ed.ac.uk/cdt/">Centre for Doctoral Training in Natural Language Processing</a><br />
     <a href="http://www.ilcc.inf.ed.ac.uk/">Institute for Language, Cognition and Computation</a><br />
     <a href="https://www.ed.ac.uk/">University of Edinburgh</a>
