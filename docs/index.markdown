@@ -1,13 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-![Portrait of Balint Gyevnar](/assets/portrait.jpg)
 
 <p>
-<img src="assets/portrait.jpg" alt="drawing" width="200"/>
 There is some extra text here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vestibulum lacinia pharetra. Nulla varius augue at ex vulputate, et tempor nulla elementum. Sed vulputate arcu nec sapien faucibus vestibulum. Sed placerat quis dolor id luctus. Vivamus blandit vitae mi eget scelerisque. Praesent auctor nibh metus, sit amet consequat nulla sollicitudin at. Cras finibus quis arcu ac luctus. Mauris gravida aliquet efficitur. Donec placerat a nulla ut molestie. Etiam velit odio, consectetur eget dolor quis, ultricies aliquet lacus. Donec fringilla magna tellus, quis elementum erat imperdiet vel. Suspendisse pharetra odio nisi, sit amet pulvinar magna ultricies sed. Maecenas ut eros tellus. Proin ut tempor sem.
 
 Sed sagittis lorem neque, sed vestibulum ipsum condimentum id. Nullam sit amet pellentesque ligula. Duis felis elit, imperdiet eu libero nec, pulvinar posuere dui. Suspendisse potenti. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis vulputate arcu rutrum nisl fringilla, eu suscipit orci iaculis. Cras consequat risus commodo velit facilisis scelerisque.
@@ -19,4 +14,3 @@ Nunc sed nibh id augue egestas feugiat at ut sapien. Nam commodo turpis sit amet
 Curabitur in nunc et magna laoreet vestibulum sed quis nulla. Ut accumsan sapien justo, vel scelerisque ante pulvinar sed. Maecenas nec consectetur sapien, nec dignissim dolor. Nulla at tellus vitae lorem semper congue. Phasellus scelerisque mi vulputate, imperdiet ex faucibus, consectetur turpis. Donec eget massa nec nisi pellentesque tincidunt. Fusce a nulla vel turpis vehicula facilisis id in dolor. Sed vel purus justo. Morbi finibus, ex vitae porta finibus, purus eros luctus ante, at consectetur erat felis quis dolor. Donec finibus luctus pellentesque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed vel efficitur sapien.
 </p>
 
-I wonder where this text will go.
