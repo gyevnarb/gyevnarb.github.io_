@@ -34,9 +34,7 @@ In particular, I am looking to achieve this goal by integrating causally explain
 I often spend my free time learning languages. Currently, I speak five. In decreasing order of fluency these are: Hungarian, English, German, Japanese, and Russian.
 
 I like playing volleyball and I am currently the treasurer of the Edinburgh University Volleyball Club. My favourite position to play is the setter.
+I also enjoy walking with people among the stark landscapes of the Scottish Highlands and taking some breath-taking photos while enduring harsh weather.
 
-I also enjoy walking with people among the stark landscapes of the Scottish Highlands and taking some breathtaking photos while enduring harsh weather.
-
-Occaisonally, I sit down to practise the piano. At the moment, I am working through the first movement of Schubert's piano sonata in B-flat major (D 960).
-
+Occasionally, I sit down to practise the piano. At the moment, I am working through the first movement of Schubert's piano sonata in B-flat major (D 960).
 Currently, I am reading Dune by Frank Herbert. A list books I have read since keeping records is [here](https://www.goodreads.com/review/list/62432429).
