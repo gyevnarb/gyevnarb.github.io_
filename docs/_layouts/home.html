@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<style type="text/css">
+    div+img {
+        float: left;
+        margin-right: 1em;
+        margin-bottom: 1em;
+    }
+</style>
+
+<header>
+  <h1>{{ site.title }}</h1>
+  {%-if site.theme_config.show_description-%}
+    <div style="overflow: hidden;">{{ site.description }}</div>
+  {%-endif-%}
+</header>
+
+{%-include menu_item.html collection=site.data.menu.entries-%}
+
+{{ content }}

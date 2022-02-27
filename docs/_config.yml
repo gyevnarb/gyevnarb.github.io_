@@ -21,8 +21,17 @@
 title: Bálint Gyevnár
 email: balint.gyevnar@ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
+  <img src="assets/portrait.jpg" alt="Portrait of Balint" width="200"/>
+  <p>
+  Research Postgraduate Student <br />
+  <a href="https://edinburghnlp.inf.ed.ac.uk/cdt/">Centre for Doctoral Training in Natural Language Processing</a><br />
+  <a href="http://www.ilcc.inf.ed.ac.uk/">Institute for Language, Cognition and Computation</a><br />
+  <a href="https://www.ed.ac.uk/">University of Edinburgh</a>
+  </p>
+  <p>
   PhD student at the University of Edinburgh working on merging explainable AI, autonomous vehicles,
   and conversational systems. Supervised by Stefano Albrecht, Shay Cohen, and Chris Lucas.
+  </p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gbalint.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CubeCC
