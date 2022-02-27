@@ -21,13 +21,16 @@
 title: Bálint Gyevnár
 email: balint.gyevnar@ed.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
+  PhD student at the University of Edinburgh working on merging explainable AI, autonomous vehicles, and conversational systems. 
+  Supervised by Stefano Albrecht, Shay Cohen, and Chris Lucas. 
+  Member of the Centre for Doctoral Training in Natural Language Processing.
+  Member of Institute for Language, Cognition and Computation
+long_description: >-
   <img src="assets/portrait.jpg" alt="Portrait of Balint" width="200" class="header_img" />
-  <p>
   Research Postgraduate Student <br />
   <a href="https://edinburghnlp.inf.ed.ac.uk/cdt/">Centre for Doctoral Training in Natural Language Processing</a><br />
   <a href="http://www.ilcc.inf.ed.ac.uk/">Institute for Language, Cognition and Computation</a><br />
   <a href="https://www.ed.ac.uk/">University of Edinburgh</a>
-  </p>
   <p>
   PhD student at the University of Edinburgh working on merging explainable AI, autonomous vehicles,
   and conversational systems. Supervised by Stefano Albrecht, Shay Cohen, and Chris Lucas.
@@ -41,7 +44,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   # back_home_text: ".." # customize text for homepage link in post layout
   # date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home page
+  show_long_description: true # show long blog description in home page
 
 # Build settings
 remote_theme: "riggraz/no-style-please"
