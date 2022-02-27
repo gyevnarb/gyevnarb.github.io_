@@ -32,11 +32,10 @@ long_description: >-
   <a href="http://www.ilcc.inf.ed.ac.uk/">Institute for Language, Cognition and Computation</a><br />
   <a href="https://www.ed.ac.uk/">University of Edinburgh</a>
   <p>
-  I am a PhD student interested in building explainable AI technologies for autonomous vehicles that can communicatiate using natural language.
+  I am a PhD student interested in building <em>explainable AI</em> technologies for <em>autonomous vehicles</em> that can communicatiate using <em>natural language</em>.
   </p>
   <p>
-  I am supervised by 
-  <a href="https://agents.inf.ed.ac.uk/stefano-albrecht/">Stefano Albrecht</a>, <a href="https://homepages.inf.ed.ac.uk/scohen/">Shay Cohen</a>, and <a href="https://homepages.inf.ed.ac.uk/clucas2/">Chris Lucas</a>.
+  My supervisors are <a href="https://agents.inf.ed.ac.uk/stefano-albrecht/">Stefano Albrecht</a>, <a href="https://homepages.inf.ed.ac.uk/scohen/">Shay Cohen</a>, and <a href="https://homepages.inf.ed.ac.uk/clucas2/">Chris Lucas</a>.
   </p>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gbalint.me" # the base hostname & protocol for your site, e.g. http://example.com
