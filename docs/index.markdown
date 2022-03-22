@@ -30,6 +30,7 @@ In particular, I am looking to achieve this goal by integrating causally explain
 
 I am originally from the small suburban town of Göd located some 30 minutes north of Budapest, Hungary.
 I did my undergraduate education at the University of Edinburgh and gained a first-class integrated master's degree in informatics (MInf).
+I also studied abroad for a year at the Nanyang Technological University in Singapore.
 My thesis supervisor was [Maria Wolters](https://www.inf.ed.ac.uk/people/staff/Maria_Wolters.html) with whom I worked on understanding how and why users deleted or hid their user accounts on social media during the early days of the COVID-19 pandemic.
 
 I have also completed a research internship at [Five](https://www.five.ai/), where I helped with the evaluation of an interpretable goal-based motion planner for autonomous vehicles called [IGP2](https://www.five.ai/igp2).
