@@ -2,8 +2,8 @@
 layout: home
 ---
 <hr />
-<div style="overflow: hidden;">
-    <img src="assets/portrait.jpg" alt="Portrait of Balint" width="33%" class="header_img" />
+<div style="overflow: hidden; text-align:left;">
+    <img src="assets/portrait.jpg" alt="Portrait of Balint" width="250px" class="header_img" />
     <strong>Research Postgraduate Student</strong><br />
     <a href="https://edinburghnlp.inf.ed.ac.uk/cdt/">Centre for Doctoral Training in Natural Language Processing</a><br />
     <a href="http://www.ilcc.inf.ed.ac.uk/">Institute for Language, Cognition and Computation</a><br />

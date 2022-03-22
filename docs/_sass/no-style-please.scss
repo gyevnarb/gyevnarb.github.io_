@@ -99,3 +99,11 @@
     margin-right: 1em;
     margin-bottom: 1em;
   }
+
+  @media screen and (max-width: 600px) {
+    .header_img {
+      float: none;
+      margin: auto;
+      margin-bottom: 1em;
+    }
+  }
