@@ -1,17 +1,21 @@
 entries:
-  - title: research
-    url: research
+  - title: "contents:"
+    entries:
+      - title: research
+        url: research
+      - title: publications
+        url: publications
+      - title: cv
+        url: assets/cv.pdf
 
-  - title: publications
-    url: publications
- 
-#  - title: posts
-#    url: archive
+  # - title: all posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
 
-  - title: cv
-    url: assets/cv.pdf
-
-  - title: external links
+  - title: "external links:"
     entries:
       - title: autonomous agents research group
         url: https://agents.inf.ed.ac.uk/
