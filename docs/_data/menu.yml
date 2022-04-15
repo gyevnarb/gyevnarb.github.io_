@@ -4,6 +4,9 @@ entries:
 
   - title: publications
     url: publications
+ 
+#  - title: posts
+#    url: archive
 
   - title: cv
     url: assets/cv.pdf
