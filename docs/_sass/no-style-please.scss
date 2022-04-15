@@ -53,6 +53,12 @@
     margin: 0 auto;
     padding: 4rem 2rem;
   }
+
+  .intro {
+    overflow: hidden; 
+    text-align:left;
+    p {text-align: left;}
+  }
   
   hr {
     text-align: center;
