@@ -55,4 +55,4 @@ I like playing volleyball and I am currently the treasurer of the Edinburgh Univ
 I also enjoy walking with people among the stark landscapes of the Scottish Highlands and taking some breath-taking photos while enduring harsh weather.
 
 Occasionally, I sit down to practise the piano. At the moment, I am working through the first movement of Schubert's piano sonata in B-flat major ([D 960](https://youtu.be/MAZ8PA5_gVA)).
-Currently, I am reading Dune by Frank Herbert. A list of books I have read since keeping records is [here](https://www.goodreads.com/review/list/62432429).
+Currently, I am reading Dune by Frank Herbert. A list of books I have read since I have begun keeping records is [here](https://www.goodreads.com/review/list/62432429).
