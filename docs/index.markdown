@@ -9,27 +9,38 @@ layout: home
     <a href="http://www.ilcc.inf.ed.ac.uk/">Institute for Language, Cognition and Computation</a><br />
     <a href="https://www.ed.ac.uk/">University of Edinburgh</a>
     <p>
-    I am a PhD student interested in building <em>explainable AI</em> technologies for <em>autonomous vehicles</em> that can communicate using <em>natural language</em>.
+    I am a PhD student interested in building <em>explainable AI</em> technologies for <em>autonomous vehicles</em> that are human=centric and can communicate using <em>natural language</em>.
     </p>
     <p>
     My supervisors are <a href="https://agents.inf.ed.ac.uk/stefano-albrecht/">Stefano Albrecht</a>, <a href="https://homepages.inf.ed.ac.uk/scohen/">Shay Cohen</a>, and <a href="https://homepages.inf.ed.ac.uk/clucas2/">Chris Lucas</a>.
     </p>
+    <span>
+    <a href="https://agents.inf.ed.ac.uk/">agents group</a>
+    &bull;
+    <a href="https://twitter.com/CubeCC/">twitter</a>
+    &bull;
+    <a href="https://scholar.google.com/citations?user=fLyES3oAAAAJ">google scholar</a>
+    &bull;
+    <a href="https://github.com/gyevnarb/">github</a>
+    </span>
 </div>
 
 # about me
 
-I am first-year PhD student at the University of Edinburgh, and my interests broadly lie in the fields of explainable AI, causal reasoning, and conversational agents.
-Most explainable AI systems rely on post-hoc explanations based on e.g. feature importance, however these explanations are difficult to justify causally and only provide instance-level explanations which often ignore the overall structure of the decision making process.
-To give satisfying answers to real-world questions we must incorporate the appropriate causal information into our replies, while appealing to the social nature of people requires a dialogue-oriented explanation process.
+I am a first-year PhD student at the University of Edinburgh, and my interests broadly lie in the fields of explainable AI, causal reasoning, and conversational agents.
+Most explainable AI systems rely on surrogate model-based explanations that determine e.g. feature importance orderings, however these surrogate systems are difficult to justify causally, prove they are faithful to the original model, and only provide expert-oriented explanations which often ignore human requirements, such as intelligibility or dialogue.
+To give satisfying answers to real-world questions we must incorporate the appropriate causal information into natural language replies.
+While appealing to the social nature of people requires a dialogue-oriented explanation process and a strong focus on human evaluation.
 
-My current research focuses on building [trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation.1.html) for autonomous vehicles to support their wider public adoption. 
-In particular, I am looking to achieve this goal by integrating causally explainable methods with autonomous vehicle motion planning (e.g. [IGP2](https://www.five.ai/igp2)) and semantic dialogue systems to deliver relevant and timely explanations about the behaviour of the vehicle.
+My current research focuses on building human-centric [trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation.1.html) for autonomous vehicles to support their wider public adoption.
+I gave a detailed outline of my vision for this project in an award winning [essay](assets/IEEE_ITS_Essay.pdf).
+In particular, I am looking to achieve this goal by integrating causally explainable methods with autonomous vehicle motion planning (e.g. [IGP2](https://www.five.ai/igp2)) and semantic dialogue systems to deliver relevant explanations about the behaviour of the vehicle.
 
 
 ## bio
 
 I am originally from the small suburban town of Göd located some 30 minutes north of Budapest, Hungary.
-I did my undergraduate education at the University of Edinburgh and gained a first-class integrated master's degree in informatics (MInf).
+I received my undergraduate education at the University of Edinburgh and gained a first-class integrated master's degree in informatics (MInf).
 I also studied abroad for a year at the Nanyang Technological University in Singapore.
 My thesis supervisor was [Maria Wolters](https://www.inf.ed.ac.uk/people/staff/Maria_Wolters.html) with whom I worked on understanding how and why users deleted or hid their user accounts on social media during the early days of the COVID-19 pandemic.
 
