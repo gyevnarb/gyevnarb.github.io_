@@ -15,39 +15,42 @@ layout: home
     My supervisors are <a href="https://agents.inf.ed.ac.uk/stefano-albrecht/">Stefano Albrecht</a>, <a href="https://homepages.inf.ed.ac.uk/scohen/">Shay Cohen</a>, and <a href="https://homepages.inf.ed.ac.uk/clucas2/">Chris Lucas</a>.
     </p>
     <span>
-    <a href="https://agents.inf.ed.ac.uk/">agents group</a>
+    <a href="https://agents.inf.ed.ac.uk/">Agents Group</a>
     &bull;
-    <a href="https://twitter.com/CubeCC/">twitter</a>
+    <a href="https://twitter.com/CubeCC/">Twitter</a>
     &bull;
-    <a href="https://scholar.google.com/citations?user=fLyES3oAAAAJ">google scholar</a>
+    <a href="https://scholar.google.com/citations?user=fLyES3oAAAAJ">Google Scholar</a>
     &bull;
-    <a href="https://github.com/gyevnarb/">github</a>
+    <a href="https://github.com/gyevnarb/">Github</a>
     </span>
 </div>
 
-# about me
+# About me
 
-I am a first-year PhD student at the University of Edinburgh, and my interests broadly lie in the fields of explainable AI, causal reasoning, and conversational agents.
-Most explainable AI systems rely on surrogate model-based explanations that determine e.g. feature importance orderings, however these surrogate systems are difficult to justify causally, prove they are faithful to the original model, and only provide expert-oriented explanations which often ignore human requirements, such as intelligibility or dialogue.
-To give satisfying answers to real-world questions we must incorporate the appropriate causal information into natural language replies.
-While appealing to the social nature of people requires a dialogue-oriented explanation process and a strong focus on human evaluation.
+I am a second-year PhD student at the University of Edinburgh, and my interests broadly lie in the fields of explainable AI (XAI), causal reasoning, and conversational agents.
+Most current post-hoc XAI systems rely on a combination of black-box systems and surrogate models to generate explanations based on, for example, feature importance.
+However, these are difficult to justify in terms of the causality behind the black-box system that generated our decisions.
+What is worse, the generated explanations are expert-oriented which ignore real human requirements, such as intelligibility or dialogue.
 
-My current research focuses on building human-centric [trustworthy AI](https://ec.europa.eu/futurium/en/ai-alliance-consultation.1.html) for autonomous vehicles to support their wider public adoption.
-I gave a detailed outline of my vision for this project in an award winning [essay](assets/IEEE_ITS_Essay.pdf).
-In particular, I am looking to achieve this goal by integrating causally explainable methods with autonomous vehicle motion planning (e.g. [IGP2](https://www.five.ai/igp2)) and semantic dialogue systems to deliver relevant explanations about the behaviour of the vehicle.
+To give satisfying answers to real-world questions we must incorporate the appropriate causal information into natural language replies, while taking into consideration the cognitive biases of people.
+Appealing to the social nature of people requires a dialogue-oriented explanation process and a focus on human evaluation.
+
+My current research focuses on building human-centric trustworthy AI for autonomous vehicles to support their wider public adoption.
+I gave a detailed outline of my vision for this project in an award winning [essay](assets/IEEE_ITS_Essay.pdf) and a [blog post](https://agents.inf.ed.ac.uk/blog/explainable-autonomous-vehicle-intelligence/).
+In particular, I am looking to achieve this goal by integrating causally explainable methods with autonomous vehicle motion planning (e.g. [IGP2](https://www.five.ai/igp2) [Albrecht et al., 2021]) and semantic dialogue systems to deliver relevant explanations about the behaviour of the vehicle.
 
 
-## bio
+## Bio
 
 I am originally from the small suburban town of Göd located some 30 minutes north of Budapest, Hungary.
-I received my undergraduate education at the University of Edinburgh and gained a first-class integrated master's degree in informatics (MInf).
+I received my undergraduate degree from the University of Edinburgh gaining a first-class integrated master's degree in informatics (MInf).
 I also studied abroad for a year at the Nanyang Technological University in Singapore.
 My thesis supervisor was [Maria Wolters](https://www.inf.ed.ac.uk/people/staff/Maria_Wolters.html) with whom I worked on understanding how and why users deleted or hid their user accounts on social media during the early days of the COVID-19 pandemic.
 
-I have also completed a research internship at [Five](https://www.five.ai/), where I helped with the evaluation of an interpretable goal-based motion planner for autonomous vehicles called [IGP2](https://www.five.ai/igp2).
+I have also completed a research internship at [Five](https://www.five.ai/), where I helped with the evaluation of the interpretable goal-based motion planner for autonomous vehicles called [IGP2](https://www.five.ai/igp2).
 
 
-## personal
+## Personal
 
 I often spend my free time learning languages. Currently, I speak five. In decreasing order of fluency these are: Hungarian, English, German, Japanese, and Russian.
 

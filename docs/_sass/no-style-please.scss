@@ -41,7 +41,7 @@
   
   p { 
     margin: 1rem 0; 
-    text-align: justify;
+    text-align: left;
   }
   
   li { margin: 0.4rem 0; }
@@ -56,8 +56,6 @@
 
   .intro {
     overflow: hidden; 
-    text-align:left;
-    p {text-align: left;}
   }
   
   hr {
@@ -108,7 +106,7 @@
     margin-bottom: 1em;
   }
 
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 770px) {
     .header_img {
       float: none;
       margin: auto;
