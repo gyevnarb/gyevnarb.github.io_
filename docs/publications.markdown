@@ -8,7 +8,7 @@ A list of all my publications, pre-prints, and other works that I have co-author
 
 ## Conference:
 
-1. **Interpretable Goal-based Prediction and Planning for Autonomous Driving**, Stefano V. Albrecht, Cillian Brewitt, John Wilhelm, *Balint Gyevnar*, Francisco Eiras, Mihai Dobre, Subramanian Ramamoorthy; IEEE International Conference on Robotics and Automation (ICRA), 2021 - [paper video](https://www.five.ai/igp2)
+1. **Interpretable Goal-based Prediction and Planning for Autonomous Driving**, Stefano V. Albrecht, Cillian Brewitt, John Wilhelm, *Balint Gyevnar*, Francisco Eiras, Mihai Dobre, Subramanian Ramamoorthy; IEEE International Conference on Robotics and Automation (ICRA), 2021 - [paper](https://www.five.ai/igp2) [video](https://www.five.ai/igp2)
 2. **GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving**, Cillian Brewitt, *Balint Gyevnar*, Samuel Garcin, Stefano V. Albrecht; IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021 - [paper](https://ieeexplore.ieee.org/abstract/document/9636279)
 
 
@@ -21,3 +21,4 @@ A list of all my publications, pre-prints, and other works that I have co-author
 
 ## Other:
 1. **Cars that Explain: Building Trust in Autonomous Vehicles through Explanations and Conversations**, *Balint Gyevnar*; “Shape the Future of ITS” Competition, IEEE Intelligent Transportation Systems Society (ITSS), 2022 - [paper](assets/IEEE_ITS_Essay.pdf)
+2. **IGP2 Code Repository**, *Balint Gyevnar*, Cillian Brewit, Samuel Garcin, Massimiliano Tamborski, and Stefano V. Albrecht - [code](https://github.com/uoe-agents/IGP2)
