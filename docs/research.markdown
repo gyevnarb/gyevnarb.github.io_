@@ -21,17 +21,36 @@ This **social** nature is to guarantee that the generated explanations are as be
 
 
 ## Interpretable Goal-based Prediction and Planning for Autonomous Driving (IGP2)
-I am the primary maintainer of the official code repository of [IGP2 on Github](https://github.com/uoe-agents/IGP2) with more than 40 stars and 10 forks.
+I am one of the main developers and the primary maintainer of the official code repository of [IGP2 on Github](https://github.com/uoe-agents/IGP2) with more than 47 stars and 10 forks.
 Our code provides the full functionality of IGP2 and is tightly integrated with the [CARLA driving environment](https://carla.org/) to support high-fidelity simulations.
 
 [IGP2](https://www.five.ai/igp2) is a transparent goal-based prediction and planning module for autonomous vehicles.
-It uses a library of high-level driving behaviours called macro actions, such Exit and Continue, that have intuitive interpretations.
+It uses a library of high-level driving behaviours called macro actions, such as Exit and Continue, that have intuitive interpretations.
 This allows us to give explanations of the generated plans of IGP2 in terms of rationality principles.
-IGP2 can not only discover non-trivial opportunities by reasoning about the behaviour of other vehicles, but its inherent interpretability is a hugely desirable property in the safety critical world of autonomous driving.
+IGP2 does not only discover non-trivial opportunities by reasoning about the behaviour of other vehicles, but its inherent interpretability is a hugely desirable property in the safety critical world of autonomous driving.
 
 ## GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving
+Goal recognition for autonomous vehicles is a crucial aspect of reasoning about the longer-term behaviour of traffic participants.
+Performing this quickly and accurately is challenging on its own; however, for the sake of safety, we also require a method to be interpretable and verifiable.
+
+I helped develop and evaluate [GRIT](https://github.com/uoe-agents/GRIT), which fulfils all of the above criteria.
+It uses learnt decision trees to infer a probability distribution over possible goals in the neighbourhood of the autonomous vehicles from real-world driving data.
+We can formally verify properties of the learnt decisions which gives safety assurance about the correctness of the method.
+GRIT is also accurate enough to match the performance of deep learning-based methods, while offering transparency about its workings.
 
 ## Communicative Efficiency or Iconic Learning: Do developmental and communicative pressures interact to shape colour naming systems?
+
+Language evolution is driven by pressures for simplicity and informativity; however, the timescale on which these pressures operate is debated.
+Over several generations, learners' biases for simple and informative systems can guide language evolution.
+Over repeated instances of dyadic communication, the principle of least effort dictates that speakers should bias systems towards simplicity and listeners towards informativity, similarly guiding language evolution.
+At the same time, it has been argued that learners only provide a bias for simplicity and, thus, users must provide a bias for informativity.
+To what extent do languages evolve during acquisition versus use?
+
+In our [submission](https://psyarxiv.com/9zx7u) to the journal Entropy, we address this question by formally defining and investigating the communicative efficiency of acquisition trajectories.
+We illustrate our approach using colour-naming systems, replicating the communicative efficiency model of Zaslavsky et al. (2018) and the acquisition model of Beekhuizen and Stevenson (2018).
+We find that to the extent language is iconic, learning alone is sufficient to shape evolution.
+With regard to colour-naming systems specifically, we find that incorporating learning biases into communicative efficiency accounts might explain how speakers and listeners trade off communicative effort.
+
 
 # Old:
 
