@@ -29,14 +29,6 @@ It uses a library of high-level driving behaviours called macro actions, such as
 This allows us to give explanations of the generated plans of IGP2 in terms of rationality principles.
 IGP2 does not only discover non-trivial opportunities by reasoning about the behaviour of other vehicles, but its inherent interpretability is a hugely desirable property in the safety critical world of autonomous driving.
 
-## GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving
-Goal recognition for autonomous vehicles is a crucial aspect of reasoning about the longer-term behaviour of traffic participants.
-Performing this quickly and accurately is challenging on its own; however, for the sake of safety, we also require a method to be interpretable and verifiable.
-
-I helped develop and evaluate [GRIT](https://github.com/uoe-agents/GRIT), which fulfils all of the above criteria.
-It uses learnt decision trees to infer a probability distribution over possible goals in the neighbourhood of the autonomous vehicles from real-world driving data.
-We can formally verify properties of the learnt decisions which gives safety assurance about the correctness of the method.
-GRIT is also accurate enough to match the performance of deep learning-based methods, while offering transparency about its workings.
 
 ## Communicative Efficiency or Iconic Learning: Do developmental and communicative pressures interact to shape colour naming systems?
 
@@ -52,6 +44,26 @@ We find that to the extent language is iconic, learning alone is sufficient to s
 With regard to colour-naming systems specifically, we find that incorporating learning biases into communicative efficiency accounts might explain how speakers and listeners trade off communicative effort.
 
 
-# Old:
+# Archive:
+
+## GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving
+Goal recognition for autonomous vehicles is a crucial aspect of reasoning about the longer-term behaviour of traffic participants.
+Performing this quickly and accurately is challenging on its own; however, for the sake of safety, we also require a method to be interpretable and verifiable.
+
+I helped develop and evaluate [GRIT](https://github.com/uoe-agents/GRIT), which fulfils all of the above criteria.
+It uses learnt decision trees to infer a probability distribution over possible goals in the neighbourhood of the autonomous vehicles from real-world driving data.
+We can formally verify properties of the learnt decisions which gives safety assurance about the correctness of the method.
+GRIT is also accurate enough to match the performance of deep learning-based methods, while offering transparency about its workings.
+
 
 ## Master's Thesis -- Comparison of Account Survival on Twitter During the First Wave of COVID-19 in Four Countries
+
+User accounts on online social networks (OSNs) are constantly changing. 
+New ones are created at an increasing pace, while others are deleted by users, protected from public view, or suspended by the online service providers. 
+    
+The study of OSN account survival can shed light on aspects, such as OSN adoption and abandonment, incidence of bots, or enforcement of OSN platform rules; however, the ongoing pandemic has significantly altered the online behaviour of people. 
+In my [thesis](https://project-archive.inf.ed.ac.uk/ug4/20212123/ug4_proj.pdf), I compared the extent to which the first wave of the COVID-19 pandemic between March and April 2020 affected account survival patterns in four countries with different approaches to managing COVID-19: the United States, the United Kingdom, Singapore, and New Zealand. 
+
+I scraped a data set from the Twitter Streaming API between March 10 and April 29, 2020 consisting of 17.3M unique tweets in English by 15.3M unique accounts. 
+The thesis revealed significant and consistent differences among patterns of account survival; most interestingly, a steady decrease in interest over time.
+I concluded, that account survival types should be taken into account when examining how the pandemic is discussed on Twitter. 
