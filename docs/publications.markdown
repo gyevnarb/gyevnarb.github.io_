@@ -13,7 +13,7 @@ A list of all my publications, pre-prints, and other works that I have co-author
 
 
 ## Journal:
-1. **Communicative Efficiency or Iconic Learning: Do communicative and acquisition pressures interact to shape colour-naming systems?**, *Balint Gyevnar*, Gautier Dagan, Coleman Haley, Shangmin Guo, and Francis Mollica; PsyArXiv preprint, 2022 - [paper](https://psyarxiv.com/9zx7u/)
+1. **Communicative Efficiency or Iconic Learning: Do communicative and acquisition pressures interact to shape colour-naming systems?**, *Balint Gyevnar*, Gautier Dagan, Coleman Haley, Shangmin Guo, and Francis Mollica; Entropy, 24(11), 1542; 2022 - [paper](https://www.mdpi.com/1099-4300/24/11/1542)
 
 
 ## Workshop:
