@@ -20,5 +20,5 @@ A list of all my publications, pre-prints, and other works that I have co-author
 1. **A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning**, *Balint Gyevnar*, Massimiliano Tamborski, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, and Stefano V. Albrecht; IJCAI Workshop on Artificial Intelligence for Autonomous Driving, 2022 - [paper](https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/papers/paper_16.pdf) [video](https://www.youtube.com/watch?v=gmjylztszZA&ab_channel=AI4ADWorkshop)
 
 ## Other:
-1. **Cars that Explain: Building Trust in Autonomous Vehicles through Explanations and Conversations**, *Balint Gyevnar*; “Shape the Future of ITS” Competition, IEEE Intelligent Transportation Systems Society (ITSS), 2022 - [paper](assets/IEEE_ITS_Essay.pdf)
+1. **Cars that Explain: Building Trust in Autonomous Vehicles through Explanations and Conversations**, *Balint Gyevnar*; “Shape the Future of ITS” Competition, IEEE Intelligent Transportation Systems Society (ITSS), 2022 - [paper](assets/IEEE_ITS_Essay.pdf) [video](https://1drv.ms/v/s!AvL2-OtIYUGTgcpZj4GaOa1I73e44w?e=Q35jpk)
 2. **IGP2 Code Repository**, *Balint Gyevnar*, Cillian Brewit, Samuel Garcin, Massimiliano Tamborski, and Stefano V. Albrecht - [code](https://github.com/uoe-agents/IGP2)
