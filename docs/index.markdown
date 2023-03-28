@@ -28,7 +28,7 @@ layout: home
 # About my research
 While AI methods showed impressive results in recent times, they are yet to be widely adopted by the public, especially in high-risk domains such as health care or transportation.
 I am interested in combining technologies from explainable AI (XAI), causal reasoning, and natural language processing to support the creation of trustworthy AI systems, focusing especially on the domain of autonomous driving.
-In my view, there are four main criteria that trustworthy AI should fulfil:
+In my view, there are four main criteria that trustworthy AI should fulfill:
 
 1. Be lawful. 
 There is now a heightened interest from lawmakers to regulate AI technologies, and AI systems will have to adhere to the requirements set out in these laws.
