@@ -13,8 +13,8 @@ Colours:
 Other(preprint, essay, code).
 
 ## 2023
-1. **Aligning Explainable AI and the Law: The European Perspective**. *Balint Gyevnar*, Nick Ferguson; arXiv:2302.10766, 2023. - [paper](https://arxiv.org/abs/2302.10766)
-2. **Causal Social Explanations for Stochastic Sequential Multi-Agent Decision-Making**. *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht; arXiv:2302.10809, 2023. - [paper](https://arxiv.org/abs/2302.10809)
+1. <span style="color:blue">**Aligning Explainable AI and the Law: The European Perspective**</span>. *Balint Gyevnar*, Nick Ferguson; 5th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2023), 2023. - [paper](https://arxiv.org/abs/2302.10766)
+2. <span style="color:blue">**Causal Social Explanations for Stochastic Sequential Multi-Agent Decision-Making**</span>. *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht; 5th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2023), 2023. - [paper](https://arxiv.org/abs/2302.10809)
 
 
 ## 2022
