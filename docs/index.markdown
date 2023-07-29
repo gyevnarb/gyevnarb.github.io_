@@ -25,6 +25,13 @@ layout: home
     </span>
 </div>
 
+# Recent highlights
+1. Our paper **"Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"** was accepted at ECAI 2023.
+2. I was **awarded £4,000** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI.
+3. My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University.
+
+<hr />
+
 # About my research
 While AI methods showed impressive results in recent times, they are yet to be widely adopted by the public, especially in high-risk domains such as health care or transportation.
 I am interested in combining technologies from explainable AI (XAI), causal reasoning, and natural language processing to support the creation of trustworthy AI systems, focusing especially on the domain of autonomous driving.
