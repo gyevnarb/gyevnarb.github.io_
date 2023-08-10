@@ -26,8 +26,8 @@ layout: home
 </div>
 
 # Recent highlights
-1. Our paper **"Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"** was accepted at ECAI 2023.
-2. I was **awarded £4,000** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI.
+1. Our paper **["Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023.
+2. I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI.
 3. My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University.
 
 <hr />
