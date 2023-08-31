@@ -26,14 +26,15 @@ layout: home
 </div>
 
 # Recent highlights
-1. Our paper **["Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023.
-2. I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI.
-3. My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University.
+- Our paper **["Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023.
+- I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI.
+- My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University.
+- I was elected [Vice President](https://euvc.co.uk/committee-2023-2024/) of the Edinburgh University Volleyball Club after serving as Treasurer for a year, overseeing the functioning of a club with more than 200 members.
 
 <hr />
 
 # About my research
-While AI methods showed impressive results in recent times, they are yet to be widely adopted by the public, especially in high-risk domains such as health care or transportation.
+While AI methods have shown impressive results in recent times, they are yet to be widely adopted by the public, especially in high-risk domains such as health care or transportation.
 I am interested in combining technologies from explainable AI (XAI), causal reasoning, and natural language processing to support the creation of trustworthy AI systems, focusing especially on the domain of autonomous driving.
 In my view, there are four main criteria that trustworthy AI should fulfill:
 
@@ -72,10 +73,11 @@ I have also completed a research internship at [Five](https://www.five.ai/), whe
 
 I often spend my free time learning languages. Currently, I speak five. In decreasing order of fluency, these are: Hungarian, English, German, Japanese, and Russian.
 
-I like playing volleyball and I am currently the treasurer of the Edinburgh University Volleyball Club. My favourite position to play is setter.
+I like playing volleyball and I am currently the vice president of the Edinburgh University Volleyball Club.
+I play setter.
 I also enjoy walking with people among the stark landscapes of the Scottish Highlands and taking some breathtaking photos while enduring harsh weather.
 
-Occasionally, I sit down to practise the piano. 
+Occasionally, I sit down to practise the piano.
 At the moment, I am working through the second movement of Schubert's piano sonata in B-flat major ([D 960](https://youtu.be/MAZ8PA5_gVA)).
 Currently, I am reading "Gödel, Escher, Bach: An Eternal Golden Braid" by Douglas R. Hofstadter. 
 A list of books I have read since I have begun keeping records is [here](https://www.goodreads.com/review/list/62432429?sort=date_read).

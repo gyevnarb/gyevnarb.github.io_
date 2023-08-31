@@ -14,11 +14,12 @@ A list of all my publications, pre-prints, and other works that I have co-author
 Other.
 
 ## 2023
-1. <span style="color:red">**Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?**</span>. *Balint Gyevnar*, Nick Ferguson, Burkhard Schafer; 26th European Conference on Artificial Intelligence (ECAI), October 2023. - [paper](https://arxiv.org/abs/2302.10766)
-2. <span style="color:orange">**Trustworthy Autonomous Systems Early Career Research Award, Knowledge Transfer Track**</span>. £4000, UK Research & Innovation, July 2023.
-3. <span style="color:orange">**Love, Sex, and AI**</span>. Selected Essay, One Hundred Year Study on Artificial Intelligence (AI100) Early Career Essay Competition, Stanford University, 2023. - [essay](assets/essay_lovesexai.pdf)
-4. <span style="color:blue">**Get Your Act Together: A Comparative View on Transparency in the AI Act and Technology**</span>. *Balint Gyevnar*, Nick Ferguson, Burkhard Schafer; 5th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2023), 2023. - [paper](https://arxiv.org/abs/2302.10766)
-5. <span style="color:blue">**Causal Explanations for Stochastic Sequential Multi-Agent Decision-Making**</span>. *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht; 5th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2023), 2023. - [paper](https://arxiv.org/abs/2302.10809)
+1. <span style="color:blue">**Causal Explanations for Sequential Decision-Making in Multi-Agent Systems**</span>. *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht; IJCAI 2023 Workshop on Explainable Artificial Intelligence, 2023. - [paper](https://arxiv.org/abs/2302.10809)
+2. <span style="color:red">**Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?**</span>. *Balint Gyevnar*, Nick Ferguson, Burkhard Schafer; 26th European Conference on Artificial Intelligence (ECAI), October 2023. - [paper](https://arxiv.org/abs/2302.10766)
+3. <span style="color:orange">**Trustworthy Autonomous Systems Early Career Research Award, Knowledge Transfer Track**</span>. £4000, UK Research & Innovation, July 2023.
+4. <span style="color:orange">**Love, Sex, and AI**</span>. Selected Essay, One Hundred Year Study on Artificial Intelligence (AI100) Early Career Essay Competition, Stanford University, 2023. - [essay](assets/essay_lovesexai.pdf)
+5. <span style="color:blue">**Get Your Act Together: A Comparative View on Transparency in the AI Act and Technology**</span>. *Balint Gyevnar*, Nick Ferguson, Burkhard Schafer; 5th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2023), 2023. - [paper](https://arxiv.org/abs/2302.10766)
+6. <span style="color:blue">**Causal Explanations for Stochastic Sequential Multi-Agent Decision-Making**</span>. *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht; 5th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2023), 2023. - [paper](https://arxiv.org/abs/2302.10809)
 
 
 ## 2022
