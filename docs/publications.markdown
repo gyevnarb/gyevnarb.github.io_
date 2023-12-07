@@ -36,7 +36,7 @@ Other.
 }
 </code></pre></div>
 
-<span style="color:tomato">**Trustworthy Autonomous Systems Early Career Research Award, Knowledge Transfer Track**</span>. £4000, UK Research & Innovation, July 2023.
+<span style="color:tomato">**Trustworthy Autonomous Systems Early Career Research Award, Knowledge Transfer Track**</span>. £4000, UK Research & Innovation, July 2023. - [announcement](https://tas.ac.uk/skills/early-career-researcher-awards/)
 
 <span style="color:tomato">**Love, Sex, and AI**</span>. Selected Essay, One Hundred Year Study on Artificial Intelligence (AI100) Early Career Essay Competition, Stanford University, 2023. - [essay](assets/essay_lovesexai.pdf), <a href="javascript:show_hide('gyevnarLoveSexAI2023')">bibtex</a>
 <div id="gyevnarLoveSexAI2023" style="display: none;"><pre><code style="line-height: 1.5;">
