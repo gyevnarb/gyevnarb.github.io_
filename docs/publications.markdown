@@ -14,13 +14,14 @@ A list of all my publications, pre-prints, and other works that I have co-author
 Other.
 
 ## 2023
-<span style="color:mediumseagreen">**Causal Explanations for Sequential Decision-Making in Multi-Agent Systems**</span>. *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht; IJCAI 2023 Workshop on Explainable Artificial Intelligence, 2023. - [paper](https://arxiv.org/abs/2302.10809), <a href="javascript:show_hide('cemaIJCAI2023')">bibtex</a>
-<div id="cemaIJCAI2023" style="display: none;"><pre><code style="line-height: 1.5;">
-@inproceedings{gyevnar2023causal,
+<span style="color:dodgerblue">**Causal Explanations for Sequential Decision-Making in Multi-Agent Systems**</span>. *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht; 23rd International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS), 2024. - [paper](https://arxiv.org/abs/2302.10809), <a href="javascript:show_hide('cemaAAMAS2024')">bibtex</a>
+<div id="cemaAAMAS2024" style="display: none;"><pre><code style="line-height: 1.5;">
+@inproceedings{gyevnar2024causal,
    title={Causal Explanations for Sequential Decision-Making in Multi-Agent Systems},
    author={Balint Gyevnar and Cheng Wang and Christopher G. Lucas and Shay B. Cohen and Stefano V. Albrecht},
-   booktitle={IJCAI 2023 Workshop on Explainable Artificial Intelligence (XAI)},
-   year={2023}
+   booktitle={23rd International Conference on Autonomous Agents and Multi-Agent Systems},
+   organization={IFAAMAS},
+   year={2024}
 }
 </code></pre></div>
 
