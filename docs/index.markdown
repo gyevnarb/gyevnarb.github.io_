@@ -26,10 +26,10 @@ layout: home
 </div>
 
 # Recent highlights
+- Our paper **["Causal Explanations for Sequential Decision-Making in Multi-Agent Systems"](https://arxiv.org/abs/2302.10809)** was accepted at AAMAS-2024.
 - Our paper **["Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023.
 - I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI.
 - My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University.
-- I was elected [Vice President](https://euvc.co.uk/committee-2023-2024/) of the Edinburgh University Volleyball Club after serving as Treasurer for a year, overseeing the functioning of a club with more than 200 members.
 
 <hr />
 
@@ -57,16 +57,6 @@ My research focuses on building trustworthy AI for autonomous vehicles to suppor
 Using XAI, we can reduce the opacity of our systems, enabling accountability, demonstrating legality, and improving testability.
 In addition, cognitive modelling and NLP technologies allow us to address the social aspects of trustworthy AI.
 I gave a detailed outline of my vision for this project in an award-winning [essay](assets/IEEE_ITS_Essay.pdf) and a [blog post](https://agents.inf.ed.ac.uk/blog/explainable-autonomous-vehicle-intelligence/).
- 
-
-## Biography
-
-I am originally from the small suburban town of Göd located some 30 minutes north of Budapest, Hungary.
-I received my undergraduate degree from the University of Edinburgh gaining a first-class integrated master's degree in informatics (MInf).
-I also studied abroad for a year at the Nanyang Technological University in Singapore.
-My thesis supervisor was [Maria Wolters](https://www.inf.ed.ac.uk/people/staff/Maria_Wolters.html) with whom I worked on understanding how and why users deleted or hid their user accounts on social media during the early days of the COVID-19 pandemic.
-
-I have also completed a research internship at [Five](https://www.five.ai/), where I helped with the evaluation of the interpretable goal-based motion planner for autonomous vehicles called [IGP2](https://www.five.ai/igp2).
 
 
 ## About me
