@@ -19,7 +19,7 @@ He authored or co-authored several works at high-profile conferences such as ECA
 Bálint Gyevnár is a penultimate year PhD student at the School of Informatics at the University of Edinburgh supervised by Stefano Albrecht, Shay Cohen, and Chris Lucas.
 He is a member of the Centre for Doctoral Training in Natural Language Processing; the Institute for Language, Cognition and Computation; and the Autonomous Agents Research Group.
 He focuses on building socially aligned explainable AI technologies for end users, drawing on research from multiple disciplines including autonomous systems, cognitive science, natural language processing, and the law.
-=His goal is to create safer and more trustworthy autonomous systems that everyone can use and trust appropriately regardless of their knowledge of AI systems.
+His goal is to create safer and more trustworthy autonomous systems that everyone can use and trust appropriately regardless of their knowledge of AI systems.
 
 Bálint's previous work focused on interpretable goal-based prediction and planning for autonomous vehicles and accurate, interpretable, fast, and verifiable goal recognition for autonomous vehicles. 
 He explored the interaction of the law and explainable AI in a publication accepted at ECAI 2023 titled "Bridging the transparency gap: What can explainable AI learn from the AI Act?", in which 4 important conclusions are outlined to better align the motivations of explainable AI and the law.

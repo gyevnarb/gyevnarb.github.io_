@@ -26,9 +26,11 @@ layout: home
 </div>
 
 # Recent highlights
-- Our paper **["Causal Explanations for Sequential Decision-Making in Multi-Agent Systems"](https://arxiv.org/abs/2302.10809)** was accepted at AAMAS-2024.
-- Our paper **["Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023.
-- I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI.
+
+- We release a new dataset of 14 driving scenarios and 1300+ annotated human-written explanations called **["HEADD: Human Explanations for Autonomous Driving Decisions"](https://datashare.ed.ac.uk/handle/10283/8714)**;
+- Our paper **["Causal Explanations for Sequential Decision-Making in Multi-Agent Systems"](https://arxiv.org/abs/2302.10809)** was accepted at AAMAS-2024;
+- Our paper **["Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023;
+- I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI;
 - My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University.
 
 <hr />
