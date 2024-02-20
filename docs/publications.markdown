@@ -14,6 +14,18 @@ A list of all my publications, pre-prints, and other works that I have co-author
 Other.
 
 ## 2024
+**Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review**. Anton Kuznietsov, *Balint Gyevnar*, Cheng Wang, Steven Peters, Stefano V. Albrecht. - [paper](https://arxiv.org/abs/2402.10086), <a href="javascript:show_hide('kuznietsov2024avreview')">bibtex</a>
+<div id="kuznietsov2024avreview" style="display: none;"><pre><code style="line-height: 1.5;">
+    @misc{kuznietsov2024avreview,
+        title={Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review},
+        author={Anton Kuznietsov and Balint Gyevnar and Cheng Wang and Steven Peters and Stefano V. Albrecht},
+        year={2024},
+        eprint={2402.10086},
+        archivePrefix={arXiv},
+        primaryClass={cs.RO}
+     }
+    </code></pre></div>
+
 **HEADD: Human Explanations for Autonomous Driving Decisions**. *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht. - [dataset](https://datashare.ed.ac.uk/handle/10283/8714), <a href="javascript:show_hide('cemaAAMAS2024b')">bibtex</a>
 <div id="cemaAAMAS2024b" style="display: none;"><pre><code style="line-height: 1.5;">
     @inproceedings{gyevnar2024causal,

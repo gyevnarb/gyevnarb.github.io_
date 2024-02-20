@@ -9,7 +9,7 @@ layout: home
     <a href="http://www.ilcc.inf.ed.ac.uk/">Institute for Language, Cognition and Computation</a><br />
     <a href="https://www.ed.ac.uk/">University of Edinburgh</a>
     <p>
-    I am a PhD student interested in building <em>explainable</em> technologies for legal, ethical, and social AI, with applications to autonomous vehicles, and the goal to achieve <em>trustworthy AI</em>.
+    I am a PhD student interested in building trustworthy <em>explainable</em> AI for multi-agent systems, with applications to autonomous vehicles, and an additional focus on AI safety and the law.
     </p>
     <p>
     My supervisors are <a href="https://agents.inf.ed.ac.uk/stefano-albrecht/">Stefano Albrecht</a>, <a href="https://homepages.inf.ed.ac.uk/scohen/">Shay Cohen</a>, and <a href="https://homepages.inf.ed.ac.uk/clucas2/">Chris Lucas</a>.
@@ -27,11 +27,12 @@ layout: home
 
 # Recent highlights
 
+- New survey paper called **["Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review"](https://arxiv.org/abs/2402.10086)** with the first systematic and reproducible review of safe and trustworthy XAI methods for autonomous driving;
 - We release a new dataset of 14 driving scenarios and 1300+ annotated human-written explanations called **["HEADD: Human Explanations for Autonomous Driving Decisions"](https://datashare.ed.ac.uk/handle/10283/8714)**;
 - Our paper **["Causal Explanations for Sequential Decision-Making in Multi-Agent Systems"](https://arxiv.org/abs/2302.10809)** was accepted at AAMAS-2024;
 - Our paper **["Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?"](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023;
 - I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI;
-- My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University.
+<!-- - My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University. -->
 
 <hr />
 
@@ -57,7 +58,7 @@ Therefore, the testing and validation of AI systems are essential.
 
 My research focuses on building trustworthy AI for autonomous vehicles to support their wider public adoption.
 Using XAI, we can reduce the opacity of our systems, enabling accountability, demonstrating legality, and improving testability.
-In addition, cognitive modelling and NLP technologies allow us to address the social aspects of trustworthy AI.
+In addition, cognitive modeling and NLP technologies allow us to address the social aspects of trustworthy AI.
 I gave a detailed outline of my vision for this project in an award-winning [essay](assets/IEEE_ITS_Essay.pdf) and a [blog post](https://agents.inf.ed.ac.uk/blog/explainable-autonomous-vehicle-intelligence/).
 
 
