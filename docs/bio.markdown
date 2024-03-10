@@ -4,7 +4,9 @@ title: Biography
 permalink: /bio/
 ---
 
-This page contains a short-form and a long-form biography. You are welcome to use either verbatim (or otherwise) if you need some background about me for a presentation, talk, etc.
+This page contains a short-form and a long-form biography. 
+
+You are welcome to use either verbatim (or otherwise) if you need some background about me for a presentation, talk, etc.
 You are also welcome to use the photo at the bottom of the page if you need a picture of me.
 
 

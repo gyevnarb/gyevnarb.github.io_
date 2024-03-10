@@ -5,6 +5,34 @@ permalink: /research/
 ---
 This page is a collection of current and past research projects ordered by how recently I have worked on the project.
 
+You can also navigate to a list of all my [publications](publications) and [presentations](presentations).
+
+
+## Explainable AI for Trustworthy Autonomous Systems
+While AI methods have shown impressive results in recent times, they are yet to be widely adopted by the public, especially in high-risk domains such as health care or transportation.
+I am interested in combining technologies from explainable AI (XAI), causal reasoning, and natural language processing to support the creation of trustworthy AI systems, focusing especially on the domain of autonomous driving.
+In my view, there are four main criteria that trustworthy AI should fulfill:
+
+1. Be lawful. 
+There is now a heightened interest from lawmakers to regulate AI technologies, and AI systems will have to adhere to the requirements set out in these laws.
+
+2. Be ethical.
+Novel technologies are often plagued by side effects --- AI is no different.
+Biased and discriminatory decisions, subversive manipulation of people, and violations of privacy are some of the major concerns that need to be addressed urgently.
+
+3. Be social.
+The design of AI systems should consider human interactions as a core part of their workflow.
+Conversations and understanding of people's cognitive models should help AI systems create relevant and targeted decisions.
+
+4. Be correct and robust. 
+All the above considerations are pointless if the AI systems produce garbage or cannot be deployed under real-life circumstances.
+Therefore, the testing and validation of AI systems are essential.
+
+My research focuses on building trustworthy AI for autonomous vehicles to support their wider public adoption.
+Using XAI, we can reduce the opacity of our systems, enabling accountability, demonstrating legality, and improving testability.
+In addition, cognitive modeling and NLP technologies allow us to address the social aspects of trustworthy AI.
+I published an [opinion paper](https://arxiv.org/abs/2302.10766) about the above ideas at ECAI 2023 and begun [implementing it in practice](https://arxiv.org/abs/2302.10809) published at AAMAS 2024.
+
 
 ## Generating Human-Centric Causal Explanations in Natural Language for Autonomous Vehicles
 The merits and drawbacks of autonomous vehicles are highly contentious topics.
@@ -14,20 +42,16 @@ This opaqueness can lead to concerns that the vehicle might fail in unexpected s
 
 In this project, my goal is to build *trust* and *understanding* in people for autonomous vehicles through explanations.
 I focus on explaining the complex high-level motion planning and prediction decisions of autonomous vehicles.
-The system that provides these decisions is the **transparent** interpretable system IGP2.
-I aim to build an automatic explanation generation method for IGP2 that is grounded in accurate **causal** attributions.
+The system that provides these decisions is the transparent interpretable system IGP2.
+I aim to build an automatic explanation generation method for IGP2 that is grounded in accurate causal attributions.
 The final system should take into consideration the cognitive biases of people, while also being able to run a smooth conversation during its explanations process.
-This **social** nature is to guarantee that the generated explanations are as beneficial for our passengers as possible.
+This social nature is to guarantee that the generated explanations are as beneficial for our passengers as possible.
+I gave a detailed outline of my vision for this project in an award-winning [essay](assets/IEEE_ITS_Essay.pdf) and a [blog post](https://agents.inf.ed.ac.uk/blog/explainable-autonomous-vehicle-intelligence/).
 
 
-## Interpretable Goal-based Prediction and Planning for Autonomous Driving (IGP2)
-I am one of the main developers and the primary maintainer of the official code repository of [IGP2 on GitHub](https://github.com/uoe-agents/IGP2) with more than 47 stars and 10 forks.
-Our code provides the full functionality of IGP2 and is tightly integrated with the [CARLA driving environment](https://carla.org/) to support high-fidelity simulations.
+<br />
 
-[IGP2](https://www.five.ai/igp2) is a transparent goal-based prediction and planning module for autonomous vehicles.
-It uses a library of high-level driving behaviours called macro actions, such as Exit and Continue, that have intuitive interpretations.
-This allows us to give explanations of the generated plans of IGP2 in terms of rationality principles.
-IGP2 does not only discover non-trivial opportunities by reasoning about the behaviour of other vehicles, but its inherent interpretability is a hugely desirable property in the safety critical world of autonomous driving.
+# Archive:
 
 
 ## Communicative Efficiency or Iconic Learning: Do developmental and communicative pressures interact to shape colour naming systems?
@@ -43,9 +67,6 @@ We illustrate our approach using colour-naming systems, replicating the communic
 We find that to the extent language is iconic, learning alone is sufficient to shape evolution.
 Concerning colour-naming systems specifically, we find that incorporating learning biases into communicative efficiency accounts might explain how speakers and listeners trade off communicative effort.
 
-
-# Archive:
-
 ## GRIT: Fast, Interpretable, and Verifiable Goal Recognition with Learned Decision Trees for Autonomous Driving
 Goal recognition for autonomous vehicles is a crucial aspect of reasoning about the longer-term behaviour of traffic participants.
 Performing this quickly and accurately is challenging on its own; however, for the sake of safety, we also require a method to be interpretable and verifiable.
@@ -55,6 +76,14 @@ It uses learnt decision trees to infer a probability distribution over possible 
 We can formally verify the properties of the learnt decisions which gives safety assurance about the correctness of the method.
 GRIT is also accurate enough to match the performance of deep learning-based methods while offering transparency about its workings.
 
+## Interpretable Goal-based Prediction and Planning for Autonomous Driving (IGP2)
+I am one of the main developers and the primary maintainer of the official code repository of [IGP2 on GitHub](https://github.com/uoe-agents/IGP2) with more than 47 stars and 10 forks.
+Our code provides the full functionality of IGP2 and is tightly integrated with the [CARLA driving environment](https://carla.org/) to support high-fidelity simulations.
+
+[IGP2](https://www.five.ai/igp2) is a transparent goal-based prediction and planning module for autonomous vehicles.
+It uses a library of high-level driving behaviours called macro actions, such as Exit and Continue, that have intuitive interpretations.
+This allows us to give explanations of the generated plans of IGP2 in terms of rationality principles.
+IGP2 does not only discover non-trivial opportunities by reasoning about the behaviour of other vehicles, but its inherent interpretability is a hugely desirable property in the safety critical world of autonomous driving.
 
 ## Master's Thesis -- Comparison of Account Survival on Twitter During the First Wave of COVID-19 in Four Countries
 

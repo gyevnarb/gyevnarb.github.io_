@@ -1,10 +1,14 @@
 entries:
-  - title: publications
-    url: publications
-  - title: bio
+  - title: my research
+    url: research
+    entries:
+    - title: publications
+      url: research/publications
+    - title: presentations
+      url: research/presentations
+  - title: biography
     url: bio
-  - title: cv
-    url: assets/cv.pdf
+
 
 # entries:
 #   - title: "contents:"
