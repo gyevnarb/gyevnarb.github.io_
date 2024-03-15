@@ -17,7 +17,19 @@ A list of all my publications, pre-prints, and other works that I have co-author
 Other (preprint/code/dataset).
 
 ## 2024
-**Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review**. <br /> Anton Kuznietsov, *Balint Gyevnar*, Cheng Wang, Steven Peters, Stefano V. Albrecht. <br /> [paper](https://arxiv.org/abs/2402.10086), <a href="javascript:show_hide('kuznietsov2024avreview')">bibtex</a>
+**People Attribute Purpose to Autonomous Vehicles When Explaining Their Behavior**. <br /> *Balint Gyevnar*, Stephanie Droop, Tadeg Quillien; arXiv:2403.08828 <br /> [paper](https://arxiv.org/abs/2403.08828), <a href="javascript:show_hide('gyevnar2024attribute')">bibtex</a>
+<div id="gyevnar2024attribute" style="display: none;"><pre><code style="line-height: 1.5;">
+    @misc{gyevnar2024attribute,
+        title={People Attribute Purpose to Autonomous Vehicles When Explaining Their Behavior},
+        author={Balint Gyevnar and Stephanie Droop and Tadeg Quillien},
+        year={2024},
+        eprint={2403.08828},
+        archivePrefix={arXiv},
+        primaryClass={cs.HC}
+     }
+</code></pre></div>
+
+**Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review**. <br /> Anton Kuznietsov, *Balint Gyevnar*, Cheng Wang, Steven Peters, Stefano V. Albrecht; arXiv:2402.10086 <br /> [paper](https://arxiv.org/abs/2402.10086), <a href="javascript:show_hide('kuznietsov2024avreview')">bibtex</a>
 <div id="kuznietsov2024avreview" style="display: none;"><pre><code style="line-height: 1.5;">
     @misc{kuznietsov2024avreview,
         title={Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review},
@@ -27,7 +39,7 @@ Other (preprint/code/dataset).
         archivePrefix={arXiv},
         primaryClass={cs.RO}
      }
-    </code></pre></div>
+</code></pre></div>
 
 **HEADD: Human Explanations for Autonomous Driving Decisions**. <br /> *Balint Gyevnar*, Cheng Wang, Christopher G. Lucas, Shay B. Cohen, Stefano V. Albrecht. <br /> [dataset](https://datashare.ed.ac.uk/handle/10283/8714), <a href="javascript:show_hide('cemaAAMAS2024b')">bibtex</a>
 <div id="cemaAAMAS2024b" style="display: none;"><pre><code style="line-height: 1.5;">
