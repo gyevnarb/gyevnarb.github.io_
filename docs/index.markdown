@@ -32,12 +32,13 @@ layout: home
 
 # Recent highlights
 
+- Published at the AAAI-24 doctoral consortium my [thesis project](https://ojs.aaai.org/index.php/AAAI/article/download/30395/32462) for human-centric XAI and gave an [interview](https://aihub.org/2024/04/16/interview-with-balint-gyevnar-creating-explanations-for-ai-based-decision-making-systems/) to AIHub about my project;
 - New paper on arXiv **[People Attribute Purpose to Autonomous Vehicles When Explaining Their Behavior](https://arxiv.org/abs/2403.08828)** based on our new dataset HEADD;
 - New survey **[Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review](https://arxiv.org/abs/2402.10086)** with the first systematic and reproducible review of safe and trustworthy XAI methods for autonomous driving;
 - New dataset of 14 scenarios and 1300+ annotated human-written explanations called **[HEADD: Human Explanations for Autonomous Driving Decisions](https://datashare.ed.ac.uk/handle/10283/8714)**;
-- Our paper **[Causal Explanations for Sequential Decision-Making in Multi-Agent Systems](https://arxiv.org/abs/2302.10809)** was accepted at AAMAS-2024;
-- Our paper **[Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023;
-- I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI.
+- Our paper was accepted at AAMAS-2024 on **[Causal Explanations for Sequential Decision-Making in Multi-Agent Systems](https://arxiv.org/abs/2302.10809)** ;
+<!-- - Our paper **[Bridging the Transparency Gap: What Can Explainable AI Learn From the AI Act?](https://arxiv.org/abs/2302.10766)** was accepted at ECAI 2023; -->
+<!-- - I was **[awarded £4,000](https://tas.ac.uk/skills/early-career-researcher-awards/)** by the UKRI Trustworthy Autonomous Systems Hub for my work on human-centered social explainable AI. -->
 <!-- - My essay **["Love, Sex, and AI"](assets/essay_lovesexai.pdf)** was selected for publication by the Standing Committee of the AI100 project at Stanford University. -->
 
 <hr />

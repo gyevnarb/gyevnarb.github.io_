@@ -4,9 +4,13 @@ title: Presentations
 permalink: /research/presentations/
 ---
 
-Below is a list of talks, poster presentations, and other forms of public engagement I took place in sorted by year.
+Below is a list of talks, poster presentations, and other forms of public engagement I did, sorted by year.
 
 ## 2024
+
+**Invited Talk** - Charles University &amp; Czech Technical University in Prague, April, 2024. <br /> *How do we make explainable AI work for people?* <br /> [talk]()
+
+**Interview** - AIHub, April, 2024. <br /> *Interview with Bálint Gyevnár: Creating explanations for AI-based decision-making systems* <br /> [interview](https://aihub.org/2024/04/16/interview-with-balint-gyevnar-creating-explanations-for-ai-based-decision-making-systems/)
 
 **Talk &amp; Poster** - Doctoral Consortium of 38th Annual AAAI Conference on Artificial Intelligence (AAAI), February, 2024. <br /> *Towards Trustworthy Autonomous Systems via Conversations and Explanations* <br /> [talk](/assets/aaai-2024-dc-talk.pdf), [poster](/assets/aaai-2024-dc-poster.pdf)
 
