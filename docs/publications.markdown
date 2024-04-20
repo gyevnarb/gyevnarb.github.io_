@@ -17,7 +17,24 @@ A list of all my publications, pre-prints, and other works that I have co-author
 Other (preprint/code/dataset).
 
 ## 2024
-**People Attribute Purpose to Autonomous Vehicles When Explaining Their Behavior**. <br /> *Balint Gyevnar*, Stephanie Droop, Tadeg Quillien; arXiv:2403.08828 <br /> [paper](https://arxiv.org/abs/2403.08828), <a href="javascript:show_hide('gyevnar2024attribute')">bibtex</a>
+
+<span style="color:dodgerblue">**Towards Trustworthy Autonomous Systems via Conversations and Explanations**.</span> <br /> *Balint Gyevnar*; Proceedings of the 38th AAAI Conference on Artificial Intelligence, 38(21), 23389-23390; 2024. <br /> [paper](https://ojs.aaai.org/index.php/AAAI/article/download/30395/32462), <a href="javascript:show_hide('gyevnar2024towardstrustworthy')">bibtex</a>
+<div id="gyevnar2024towardstrustworthy" style="display: none;"><pre><code style="line-height: 1.5;">
+    @article{gyevnar2024towardstrustworthy, 
+        title={Towards Trustworthy Autonomous Systems via Conversations and Explanations}, 
+        volume={38}, 
+        url={https://ojs.aaai.org/index.php/AAAI/article/view/30395}, 
+        DOI={10.1609/aaai.v38i21.30395}, 
+        number={21}, 
+        journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+        author={Balint Gyevnar}, 
+        year={2024}, 
+        month={Mar.}, 
+        pages={23389-23390}
+    }
+</code></pre></div>
+
+<span style="color:mediumseagreen">**People Attribute Purpose to Autonomous Vehicles When Explaining Their Behavior**.</span> <br /> *Balint Gyevnar*, Stephanie Droop, Tadeg Quillien; 6th International Workshop on EXplainable and TRAnsparent AI and Multi-Agent Systems (EXTRAAMAS 2024); arXiv:2403.08828; 2024. <br /> [paper](https://arxiv.org/abs/2403.08828), <a href="javascript:show_hide('gyevnar2024attribute')">bibtex</a>
 <div id="gyevnar2024attribute" style="display: none;"><pre><code style="line-height: 1.5;">
     @misc{gyevnar2024attribute,
         title={People Attribute Purpose to Autonomous Vehicles When Explaining Their Behavior},
