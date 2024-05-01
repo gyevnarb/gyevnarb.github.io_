@@ -4,8 +4,8 @@ entries:
     entries:
     - title: publications
       url: research/publications
-    - title: presentations
-      url: research/presentations
+    - title: talks
+      url: research/talks
   - title: biography
     url: bio
 

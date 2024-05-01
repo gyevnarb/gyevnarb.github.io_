@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Presentations
-permalink: /research/presentations/
+title: Talks
+permalink: /research/talks/
 ---
 
 Below is a list of talks, poster presentations, and other forms of public engagement I did, sorted by year.
 
 ## 2024
 
-**Invited Talk** - Charles University &amp; Czech Technical University in Prague, April, 2024. <br /> *How do we make explainable AI work for people?* <br /> [talk]()
+**Invited Talk** - Charles University &amp; Czech Technical University in Prague, April, 2024; Host: Martin Holeňa. <br /> *How do we make explainable AI work for people?* <br /> [talk](/assets/xai-seminar-prague.pdf)
 
 **Interview** - AIHub, April, 2024. <br /> *Interview with Bálint Gyevnár: Creating explanations for AI-based decision-making systems* <br /> [interview](https://aihub.org/2024/04/16/interview-with-balint-gyevnar-creating-explanations-for-ai-based-decision-making-systems/)
 
