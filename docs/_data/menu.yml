@@ -8,6 +8,8 @@ entries:
       url: research/talks
   - title: biography
     url: bio
+  - title: teaching
+    url: teaching
 
 
 # entries:

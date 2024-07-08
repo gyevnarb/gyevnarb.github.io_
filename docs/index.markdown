@@ -3,7 +3,7 @@ layout: home
 ---
 <hr />
 <div class="intro">
-    <img src="assets/portrait.jpg" alt="Portrait of Balint" width="260" class="header_img" />
+    <img src="assets/portrait_small.jpg" alt="Portrait of Balint" width="260" class="header_img" />
     <strong style="font-size: 14pt;">PhD Candidate</strong><br />
     <div style="text-align: left; font-style: italic">
     <a href="https://agents.inf.ed.ac.uk/">Autonomous Agents Research Group (AARG);</a><br />
