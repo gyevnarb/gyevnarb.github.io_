@@ -46,15 +46,17 @@ Other (preprint/code/dataset).
      }
 </code></pre></div>
 
-**Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review**. <br /> Anton Kuznietsov, *Balint Gyevnar*, Cheng Wang, Steven Peters, Stefano V. Albrecht; arXiv:2402.10086 <br /> [paper](https://arxiv.org/abs/2402.10086), <a href="javascript:show_hide('kuznietsov2024avreview')">bibtex</a>
+<span style="color:orange">**Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review**. </span> <br /> Anton Kuznietsov, *Balint Gyevnar*, Cheng Wang, Steven Peters, Stefano V. Albrecht; IEEE Transactions on Intelligent Transportation Systems, Early Access, 2024. <br /> [paper](https://ieeexplore.ieee.org/document/10716567), <a href="javascript:show_hide('kuznietsov2024avreview')">bibtex</a>
 <div id="kuznietsov2024avreview" style="display: none;"><pre><code style="line-height: 1.5;">
-    @misc{kuznietsov2024avreview,
+    @article{kuznietsov2024avreview,
         title={Explainable AI for Safe and Trustworthy Autonomous Driving: A Systematic Review},
         author={Anton Kuznietsov and Balint Gyevnar and Cheng Wang and Steven Peters and Stefano V. Albrecht},
         year={2024},
-        eprint={2402.10086},
-        archivePrefix={arXiv},
-        primaryClass={cs.RO}
+        journal={Transactions on Intelligent Transportation Systems},
+        volume={Early Access},
+        number={0},
+        pages={0},
+        publisher={IEEE}
      }
 </code></pre></div>
 
