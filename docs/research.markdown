@@ -13,7 +13,7 @@ While AI methods have shown impressive results in recent times, they are yet to 
 I am interested in combining technologies from explainable AI (XAI), causal reasoning, and natural language processing to support the creation of trustworthy AI systems, focusing especially on the domain of autonomous driving.
 In my view, there are four main criteria that trustworthy AI should fulfill:
 
-1. Be lawful. 
+1. Be lawful.
 There is now a heightened interest from lawmakers to regulate AI technologies, and AI systems will have to adhere to the requirements set out in these laws.
 
 2. Be ethical.
@@ -24,7 +24,7 @@ Biased and discriminatory decisions, subversive manipulation of people, and viol
 The design of AI systems should consider human interactions as a core part of their workflow.
 Conversations and understanding of people's cognitive models should help AI systems create relevant and targeted decisions.
 
-4. Be correct and robust. 
+4. Be correct and robust.
 All the above considerations are pointless if the AI systems produce garbage or cannot be deployed under real-life circumstances.
 Therefore, the testing and validation of AI systems are essential.
 
@@ -87,12 +87,12 @@ IGP2 does not only discover non-trivial opportunities by reasoning about the beh
 
 ## Master's Thesis -- Comparison of Account Survival on Twitter During the First Wave of COVID-19 in Four Countries
 
-User accounts on online social networks (OSNs) are constantly changing. 
-New ones are created at an increasing pace, while others are deleted by users, protected from public view, or suspended by online service providers. 
-    
-The study of OSN account survival can shed light on aspects, such as OSN adoption and abandonment, the incidence of bots, or enforcement of OSN platform rules; however, the ongoing pandemic has significantly altered the online behaviour of people. 
-In my [thesis](https://project-archive.inf.ed.ac.uk/ug4/20212123/ug4_proj.pdf), I compared the extent to which the first wave of the COVID-19 pandemic between March and April 2020 affected account survival patterns in four countries with different approaches to managing COVID-19: the United States, the United Kingdom, Singapore, and New Zealand. 
+User accounts on online social networks (OSNs) are constantly changing.
+New ones are created at an increasing pace, while others are deleted by users, protected from public view, or suspended by online service providers.
 
-I scraped a data set from the Twitter Streaming API between March 10 and April 29, 2020, consisting of 17.3M unique tweets in English by 15.3M unique accounts. 
+The study of OSN account survival can shed light on aspects, such as OSN adoption and abandonment, the incidence of bots, or enforcement of OSN platform rules; however, the ongoing pandemic has significantly altered the online behaviour of people.
+In my [thesis](https://project-archive.inf.ed.ac.uk/ug4/20212123/ug4_proj.pdf), I compared the extent to which the first wave of the COVID-19 pandemic between March and April 2020 affected account survival patterns in four countries with different approaches to managing COVID-19: the United States, the United Kingdom, Singapore, and New Zealand.
+
+I scraped a data set from the Twitter Streaming API between March 10 and April 29, 2020, consisting of 17.3M unique tweets in English by 15.3M unique accounts.
 The thesis revealed significant and consistent differences among patterns of account survival and, most interestingly, a steady decrease in interest over time.
-I concluded that account survival types should be taken into account when examining how the pandemic is discussed on Twitter. 
+I concluded that account survival types should be taken into account when examining how the pandemic is discussed on Twitter.

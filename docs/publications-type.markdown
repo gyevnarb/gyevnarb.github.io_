@@ -89,7 +89,7 @@ Other (preprint/code/dataset).
         author={Anton Kuznietsov and Balint Gyevnar and Cheng Wang and Steven Peters and Stefano V. Albrecht},
         year={2024},
         month={Dec},
-        journal={Transactions on Intelligent Transportation Systems},
+        journal={IEEE Transactions on Intelligent Transportation Systems},
         volume={25},
         number={12},
         pages={19342-19364},
